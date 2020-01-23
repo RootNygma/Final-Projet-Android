@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CrousResto</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="edit_name">enter your name</string>
+    <string name="edit_lastname">enter last name</string>
+</resources>
