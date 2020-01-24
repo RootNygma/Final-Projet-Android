@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763576860120",
+    "firebase_url": "https://crousresto-aab88.firebaseio.com",
+    "project_id": "crousresto-aab88",
+    "storage_bucket": "crousresto-aab88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763576860120:android:9ffe708d51122248bfc6ad",
+        "android_client_info": {
+          "package_name": "com.crousresto.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763576860120-397krsoa3c2t92jdq4q4chr5h4ut1fo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crousresto.android",
+            "certificate_hash": "5be04cf5a9c9e64d8cd695a4a16f01f142ccb59f"
+          }
+        },
+        {
+          "client_id": "763576860120-2nrvggs4pei7njdjpl6d2eqvkhtpmrsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhHMNxRaIp7D_9CCwczj3EhLzrG-Ejyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763576860120-2nrvggs4pei7njdjpl6d2eqvkhtpmrsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

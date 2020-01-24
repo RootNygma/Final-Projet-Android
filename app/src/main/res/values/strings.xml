@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">CrousResto</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="edit_nom" >entrer nom</string>
+    <string name="edit_email">adresse electronique</string>
+    <string name="button_inscrire">S\'inscrire</string>
+    <string name="button_connecter">Se connecter</string>
+    <string name="password">password</string>
+    <string name="confirmationPassword">confirmPasword</string>
+    <string name="edit_Status">Etudiant/Controleur</string>
+
+    //validation
+    <string name="input_error_name">name required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_phone">phone required</string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="numero">Numero</string>
+    <string name="tv_Inscrire">S\'inscrire</string>
+    <string name="ine">INE</string>
+</resources>
