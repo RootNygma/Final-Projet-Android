@@ -9,10 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.RechargerCompte"></activity>
+        <activity android:name=".Activities.History"></activity>
+        <activity android:name=".Activities.RechargerCompte" />
         <activity android:name=".Activities.AfficherTicket" />
         <activity android:name=".Activities.MenuResto" />
-        <activity android:name=".Activities.HomeDashboard" />
+        <activity
+            android:name=".Activities.HomeDashboard"
+            android:exported="true" />
         <activity android:name=".Activities.RegisterActivity" />
         <activity android:name=".Activities.MainActivity">
             <intent-filter>
