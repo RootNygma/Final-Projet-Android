@@ -41,7 +41,7 @@ public class HomeDashboard extends AppCompatActivity implements View.OnClickList
             case R.id.refresh:
                 i = new Intent(this, RechargerCompte.class); startActivity(i); break;
             case R.id.pay:
-                i =new Intent(this, AfficherTicket.class); startActivity(i); break;
+                i =new Intent(this, History.class); startActivity(i); break;
             case R.id.services:
                 i = new Intent(this, MenuResto.class); startActivity(i); break;
             default:break;
